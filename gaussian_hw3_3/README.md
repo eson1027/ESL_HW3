@@ -1,4 +1,4 @@
-# Sobel Edge Detector
+# gaussian blur filter
 
 ## SystemC Simulation
 
@@ -7,4 +7,5 @@
 ## Stratus
 
 - cd stratus
-- make sim_all
+- make sim_B
+- make sim_V_BASIC
