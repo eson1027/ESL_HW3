@@ -2,7 +2,7 @@
 
 ```shell
 git clone https://github.com/eson1027/ESL_HW3
-cd gaussian_hw3_1
+-cd gaussian_hw3_1
 # cd gaussian_hw3_2
 # cd gaussian_hw3_3
 ## SystemC Simulation
