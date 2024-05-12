@@ -5,8 +5,14 @@ git clone https://github.com/eson1027/ESL_HW3
 cd gaussian_hw3_1
 # cd gaussian_hw3_2
 # cd gaussian_hw3_3
-cd status
-make sim_B
+## SystemC Simulation
+
+- make run
+
+## Stratus
+
+- cd stratus
+- make sim_B
 # make sim_V_BASIC
 ```
 ## 1. High level synthesis of Gaussian Blur Filter
