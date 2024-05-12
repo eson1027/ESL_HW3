@@ -1,4 +1,4 @@
-# Sobel Edge Detector
+# gaussian blur filter
 
 ## SystemC Simulation
 
